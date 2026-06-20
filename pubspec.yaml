@@ -1,0 +1,22 @@
+name: whats_new_flutter
+description: >-
+  Beautiful, animated in-app changelog modal with Material 3 & Cupertino
+  support. Show release notes after app updates with modern transitions.
+version: 0.1.0
+homepage: https://github.com/UmarAnayat/whats_new_flutter
+repository: https://github.com/UmarAnayat/whats_new_flutter
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
