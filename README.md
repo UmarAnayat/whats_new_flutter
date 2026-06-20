@@ -4,7 +4,7 @@
 
 Beautiful, animated in-app changelog modal with Material 3 & Cupertino support. Show release notes after app updates with modern transitions.
 
-<video src="doc/screenshots/whats_new_demo.mp4" controls width="320" autoplay loop muted playsinline></video>
+![whats_new_flutter demo](doc/screenshots/whats_new_demo.gif)
 
 ## Quick start
 
